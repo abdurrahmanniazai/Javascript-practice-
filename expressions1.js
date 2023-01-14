@@ -1,3 +1,5 @@
+//Conditional expressions practiced
+
 let a = prompt('your age please?');
 a = Number.parseInt(a); 
 
